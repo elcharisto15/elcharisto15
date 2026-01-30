@@ -164,9 +164,33 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 
 > “I’m passionate about building systems that actually get used.”
 
-## 🔥 Contribution Activity
+## 📊 GitHub Stats
 
-![Mikha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elcharisto15&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=elcharisto15&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcharisto15&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+    alt="Dev Quote"
+  />
+</p>
+
 
 💼 **Status**: Open for Job Opportunities & Professional Collaboration  
 🧠 **Focus**: Production Systems • Desktop Apps • Web & IoT Integration
