@@ -154,33 +154,23 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 
 ---
 
-## 📫 Let’s Connect
+## 🌐 Socials
 
-- 💼 Open for **job opportunities & collaborations**
-- 📧 Email: mikhaelcharisto15@gmail.com
-- 🌐 GitHub: https://github.com/elcharisto15
-
----
+<p align="left">
+  <a href="https://instagram.com/USERNAME_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:EMAIL_KAMU">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 > “I’m passionate about building systems that actually get used.”
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=elcharisto15&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcharisto15&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Most Used Languages"
-  />
-</p>
-
----
 
 ## 💬 Random Dev Quote
 
