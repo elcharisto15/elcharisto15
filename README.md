@@ -36,15 +36,6 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 
 ## 🛠 Tech Stack
 
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elcharisto15&show_icons=true&hide_title=true&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcharisto15&layout=compact&hide_border=true" />
-</p>
-
 ### 💻 Core
 - **TypeScript**, JavaScript
 - **PHP (Laravel)**
@@ -167,3 +158,11 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 ---
 
 > “I’m passionate about building systems that actually get used.”
+
+## 🔥 Contribution Activity
+
+![Mikha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elcharisto15&theme=tokyo-night&hide_border=true)
+
+💼 **Status**: Open for Job Opportunities & Professional Collaboration  
+🧠 **Focus**: Production Systems • Desktop Apps • Web & IoT Integration
+
