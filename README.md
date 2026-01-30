@@ -36,11 +36,14 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 
 ## 🛠 Tech Stack
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Mikha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elcharisto15&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elcharisto15&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=elcharisto15&show_icons=true&hide_title=true&hide_border=true" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcharisto15&layout=compact&hide_border=true" />
+</p>
 
 ### 💻 Core
 - **TypeScript**, JavaScript
