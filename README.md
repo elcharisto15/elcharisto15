@@ -36,38 +36,43 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 
 ## 🛠 Tech Stack
 
-### 💻 Core
-- **TypeScript**, JavaScript
-- **PHP (Laravel)**
-- **Python (Flask)**
-- **Electron**, **React**, **Next.js**
-- **Node.js**
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🎨 Frontend
-- React 18, Next.js App Router
-- Tailwind CSS, Chakra UI
-- Framer Motion
-- Vite
+---
 
-### 🧠 Backend & Data
-- Laravel 10
-- Flask (Factory Pattern)
-- Supabase (PostgreSQL + RLS)
-- REST API Design
-- Export Reporting (PDF / Excel)
+### Backend & Data
+![Laravel](https://img.shields.io/badge/Laravel_10-EF3B2D?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
-### 🎥 Media & Hardware
-- Canon **EDSDK** (native bindings)
-- FFmpeg
-- MediaRecorder API
-- Canvas API (image processing)
-- Electron IPC & preload security
+---
 
-### ⚙️ Dev & Tools
-- Git & GitHub
-- Docker (basic)
-- Linux & Windows environments
-- Native module compilation (node-gyp)
+### Media & Hardware
+![Canon](https://img.shields.io/badge/Canon_EDSDK-CC0000?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Electron IPC](https://img.shields.io/badge/Electron_IPC-2B2E3A?style=flat-square)
+
+---
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
@@ -152,7 +157,7 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 ## 📫 Let’s Connect
 
 - 💼 Open for **job opportunities & collaborations**
-- 📧 Email: *(add your email here)*
+- 📧 Email: mikhaelcharisto15@gmail.com
 - 🌐 GitHub: https://github.com/elcharisto15
 
 ---
