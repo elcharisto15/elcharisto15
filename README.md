@@ -157,13 +157,13 @@ Currently working in **IoT, Web Systems, and Digital Product Development**.
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://instagram.com/USERNAME_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/elcharisto.r_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mikha-el-charisto-rahardjo-475059175" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:EMAIL_KAMU">
+  <a href="mailto:mikhaelcharisto15">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
